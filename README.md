@@ -9,7 +9,7 @@
 
 #### You can find me here:
 
-[ <img target="_blank" align="left" alt="Touba Ijaz | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameerkatija@gmail.com" />][gmail]
+[ <img target="_blank" align="left" alt="Touba Ijaz | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:toubaijaz143@gmail.com" />][gmail]
 [ <img target="_blank" align="left" alt="Touba Ijaz | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sameerkatija" />][twitter]
 [ <img target="_blank" align="left" alt="Touba Ijaz | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />][instagram]
 [ <img target="_blank" align="left" alt="Touba Ijaz | Medium" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" />][medium]
